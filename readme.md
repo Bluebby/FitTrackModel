@@ -44,6 +44,11 @@ L'objectif principal est de visualiser et **analyser les performances physiques*
 - Intégration possible avec **Yuka** pour noter les aliments
 - **Suggestions de repas** équilibrés et variés pour la semaine
 
+### 🔹 Suivi apport journalier API openai 
+<img src="assets/food_complet.png" alt="Squats" width="600"/>
+
+---
+
 ### 💧 Suivi santé
 - Hydratation quotidienne
 - Suivi du sommeil
