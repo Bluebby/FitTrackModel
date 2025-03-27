@@ -1,0 +1,241 @@
+Exercice,Muscle,Intensite
+Developpe couche halteres,Sternocostal part of pectoralis major,10
+Developpe couche halteres,Clavicular part of pectoralis major,8
+Developpe couche halteres,Clavicular part of deltoid,8
+Developpe couche halteres,Lateral head of triceps brachii,7
+Developpe couche halteres,Long head of triceps brachii,6
+Developpe couche halteres,Medial head of triceps brachii,6
+Developpe couche halteres,Abdominal part of pectoralis major,5
+Developpe couche halteres,Coracobrachialis,4
+Developpe couche halteres,Subscapularis,4
+Developpe couche halteres,Infraspinatus,3
+Developpe couche inclines halteres,Clavicular part of pectoralis major,10
+Developpe couche inclines halteres,Clavicular part of deltoid,9
+Developpe couche inclines halteres,Sternocostal part of pectoralis major,7
+Developpe couche inclines halteres,Lateral head of triceps brachii,6
+Developpe couche inclines halteres,Long head of triceps brachii,5
+Developpe couche inclines halteres,Medial head of triceps brachii,5
+Developpe couche inclines halteres,Subscapularis,4
+Developpe couche inclines halteres,Coracobrachialis,4
+Developpe couche inclines halteres,Infraspinatus,3
+Developpe couche inclines halteres,Supraspinatus,3
+Developpe militaire,Clavicular part of deltoid,10
+Developpe militaire,Acromial part of deltoid,9
+Developpe militaire,Long head of triceps brachii,8
+Developpe militaire,Lateral head of triceps brachii,8
+Developpe militaire,Medial head of triceps brachii,7
+Developpe militaire,Supraspinatus,6
+Developpe militaire,Clavicular part of pectoralis major,5
+Developpe militaire,Subscapularis,4
+Developpe militaire,Infraspinatus,3
+Developpe militaire,Teres minor,3
+Dips,Sternocostal part of pectoralis major,10
+Dips,Abdominal part of pectoralis major,9
+Dips,Long head of triceps brachii,8
+Dips,Lateral head of triceps brachii,8
+Dips,Medial head of triceps brachii,7
+Dips,Clavicular part of deltoid,7
+Dips,Pectoralis minor,6
+Dips,Subscapularis,5
+Dips,Infraspinatus,4
+Dips,Teres minor,4
+Pec fly,Sternocostal part of pectoralis major,10
+Pec fly,Clavicular part of pectoralis major,7
+Pec fly,Abdominal part of pectoralis major,6
+Pec fly,Clavicular part of deltoid,7
+Pec fly,Brachialis,4
+Pec fly,Brachioradialis,3
+Pec fly,Subscapularis,5
+Pec fly,Supraspinatus,5
+Pec fly,Infraspinatus,4
+Pec fly,Teres minor,4
+Elevations laterales,Acromial part of deltoid,10
+Elevations laterales,Supraspinatus,9
+Elevations laterales,Infraspinatus,7
+Elevations laterales,Teres minor,7
+Elevations laterales,Subscapularis,6
+Elevations laterales,Clavicular part of deltoid,6
+Elevations laterales,Lateral head of triceps brachii,5
+Elevations laterales,Medial head of triceps brachii,4
+Elevations laterales,Clavicular part of deltoid,4
+Elevations laterales,Long head of triceps brachii,3
+Triceps barre EZ,Long head of triceps brachii,10
+Triceps barre EZ,Lateral head of triceps brachii,9
+Triceps barre EZ,Medial head of triceps brachii,8
+Triceps barre EZ,Flexor carpi radialis,5
+Triceps barre EZ,Flexor digitorum profundus,4
+Triceps barre EZ,Clavicular part of deltoid,4
+Triceps barre EZ,Subscapularis,3
+Triceps barre EZ,Infraspinatus,2
+Triceps barre EZ,Teres minor,2
+Triceps barre EZ,Sternocostal part of pectoralis major,3
+Triceps poulie corde,Lateral head of triceps brachii,10
+Triceps poulie corde,Medial head of triceps brachii,9
+Triceps poulie corde,Long head of triceps brachii,8
+Triceps poulie corde,Flexor carpi radialis,6
+Triceps poulie corde,Flexor digitorum profundus,5
+Triceps poulie corde,Spinal part of deltoid,5
+Triceps poulie corde,Teres major,5
+Triceps poulie corde,Pectoralis minor,4
+Triceps poulie corde,Flexor digitorum superficialis,4
+Triceps poulie corde,Brachialis,3
+Tractions,Teres major,10
+Tractions,Subscapularis,9
+Tractions,Brachialis,9
+Tractions,Flexor digitorum profundus,8
+Tractions,Brachioradialis,8
+Tractions,Pectoralis minor,7
+Tractions,Flexor digitorum superficialis,7
+Tractions,Teres minor,6
+Tractions,Infraspinatus,6
+Tractions,Sternocostal part of pectoralis major,5
+Rowing barre,Teres major,10
+Rowing barre,Spinal part of deltoid,9
+Rowing barre,Brachialis,9
+Rowing barre,Flexor digitorum profundus,8
+Rowing barre,Brachioradialis,8
+Rowing barre,Infraspinatus,7
+Rowing barre,Teres minor,7
+Rowing barre,Flexor digitorum superficialis,7
+Rowing barre,Subscapularis,6
+Rowing barre,Supraspinatus,5
+Tirage horizontal,Teres major,10
+Tirage horizontal,Subscapularis,9
+Tirage horizontal,Brachialis,9
+Tirage horizontal,Flexor digitorum profundus,8
+Tirage horizontal,Brachioradialis,8
+Tirage horizontal,Spinal part of deltoid,8
+Tirage horizontal,Infraspinatus,7
+Tirage horizontal,Teres minor,7
+Tirage horizontal,Flexor digitorum superficialis,7
+Tirage horizontal,Supraspinatus,5
+Tirage vertical,Teres major,10
+Tirage vertical,Subscapularis,9
+Tirage vertical,Brachialis,9
+Tirage vertical,Flexor digitorum profundus,8
+Tirage vertical,Brachioradialis,8
+Tirage vertical,Pectoralis minor,7
+Tirage vertical,Flexor digitorum superficialis,7
+Tirage vertical,Teres minor,6
+Tirage vertical,Infraspinatus,6
+Tirage vertical,Sternocostal part of pectoralis major,5
+Tirage menton barre EZ,Acromial part of deltoid,10
+Tirage menton barre EZ,Supraspinatus,9
+Tirage menton barre EZ,Clavicular part of deltoid,8
+Tirage menton barre EZ,Brachialis,9
+Tirage menton barre EZ,Brachioradialis,8
+Tirage menton barre EZ,Spinal part of deltoid,6
+Tirage menton barre EZ,Teres minor,5
+Tirage menton barre EZ,Infraspinatus,5
+Tirage menton barre EZ,Flexor digitorum profundus,6
+Tirage menton barre EZ,Flexor digitorum superficialis,5
+Curl marteau,Brachioradialis,10
+Curl marteau,Brachialis,9
+Curl marteau,Flexor digitorum profundus,7
+Curl marteau,Flexor digitorum superficialis,6
+Curl marteau,Clavicular part of deltoid,6
+Curl marteau,Extensor carpi radialis longus,5
+Curl marteau,Extensor carpi radialis brevis,4
+Curl marteau,Flexor carpi radialis,5
+Curl marteau,Extensor carpi ulnaris,4
+Curl marteau,Coracobrachialis,3
+Curl biceps assis,Brachialis,10
+Curl biceps assis,Brachioradialis,8
+Curl biceps assis,Flexor digitorum profundus,7
+Curl biceps assis,Flexor digitorum superficialis,6
+Curl biceps assis,Clavicular part of deltoid,6
+Curl biceps assis,Flexor carpi radialis,5
+Curl biceps assis,Extensor carpi radialis longus,4
+Curl biceps assis,Extensor carpi radialis brevis,4
+Curl biceps assis,Extensor carpi ulnaris,4
+Curl biceps assis,Coracobrachialis,4
+Squats,Gluteus maximus,10
+Squats,Vastus lateralis,10
+Squats,Vastus medialis,10
+Squats,Vastus intermedius,9
+Squats,Rectus femoris,9
+Squats,Adductor magnus,8
+Squats,Gluteus medius,7
+Squats,Long head of biceps femoris,7
+Squats,Soleus,6
+Squats,External oblique,6
+Fentes,Vastus lateralis,10
+Fentes,Vastus medialis,10
+Fentes,Gluteus maximus,10
+Fentes,Rectus femoris,9
+Fentes,Vastus intermedius,9
+Fentes,Adductor magnus,8
+Fentes,Gluteus medius,8
+Fentes,Long head of biceps femoris,7
+Fentes,Soleus,6
+Fentes,Adductor longus,6
+Souleve de terre jambes tendues,Long head of biceps femoris,10
+Souleve de terre jambes tendues,Gluteus maximus,10
+Souleve de terre jambes tendues,Adductor magnus,9
+Souleve de terre jambes tendues,External oblique,8
+Souleve de terre jambes tendues,Flexor digitorum profundus,8
+Souleve de terre jambes tendues,Short head of biceps femoris,7
+Souleve de terre jambes tendues,Soleus,7
+Souleve de terre jambes tendues,Flexor digitorum superficialis,7
+Souleve de terre jambes tendues,Medial head of gastrocnemius,6
+Souleve de terre jambes tendues,Adductor longus,6
+Leg extension,Rectus femoris,10
+Leg extension,Vastus lateralis,10
+Leg extension,Vastus medialis,10
+Leg extension,Vastus intermedius,10
+Leg extension,Short head of biceps femoris,5
+Leg extension,Long head of biceps femoris,4
+Leg extension,Medial head of gastrocnemius,5
+Leg extension,Lateral head of gastrocnemius,5
+Leg extension,Tensor fasciae latae,4
+Leg extension,Sartorius,3
+Ischio machine,Long head of biceps femoris,10
+Ischio machine,Short head of biceps femoris,10
+Ischio machine,Medial head of gastrocnemius,9
+Ischio machine,Lateral head of gastrocnemius,9
+Ischio machine,Gracilis,7
+Ischio machine,Sartorius,7
+Ischio machine,Tensor fasciae latae,5
+Ischio machine,Rectus femoris,5
+Ischio machine,External oblique,4
+Ischio machine,Flexor digitorum profundus,3
+Mollets,Medial head of gastrocnemius,10
+Mollets,Lateral head of gastrocnemius,10
+Mollets,Soleus,9
+Mollets,Flexor hallucis longus,7
+Mollets,Flexor digitorum longus,6
+Mollets,Flexor digitorum brevis,5
+Mollets,Abductor hallucis,5
+Mollets,Abductor digiti minimi of foot,4
+Mollets,Medial head of flexor hallucis brevis,4
+Mollets,Lateral head of flexor hallucis brevis,4
+Curl biceps barre EZ,Brachialis,10
+Curl biceps barre EZ,Brachioradialis,9
+Curl biceps barre EZ,Flexor digitorum profundus,7
+Curl biceps barre EZ,Flexor digitorum superficialis,6
+Curl biceps barre EZ,Flexor carpi radialis,5
+Curl biceps barre EZ,Extensor carpi radialis longus,5
+Curl biceps barre EZ,Extensor carpi radialis brevis,4
+Curl biceps barre EZ,Clavicular part of deltoid,6
+Curl biceps barre EZ,Extensor carpi ulnaris,4
+Curl biceps barre EZ,Coracobrachialis,4
+Curl biceps machine,Brachialis,10
+Curl biceps machine,Brachioradialis,8
+Curl biceps machine,Flexor digitorum profundus,7
+Curl biceps machine,Flexor digitorum superficialis,6
+Curl biceps machine,Flexor carpi radialis,5
+Curl biceps machine,Extensor carpi radialis longus,4
+Curl biceps machine,Extensor carpi radialis brevis,4
+Curl biceps machine,Clavicular part of deltoid,5
+Curl biceps machine,Coracobrachialis,4
+Curl biceps machine,Extensor carpi ulnaris,4
+Triceps poulie corde derriere,Long head of triceps brachii,10
+Triceps poulie corde derriere,Lateral head of triceps brachii,9
+Triceps poulie corde derriere,Medial head of triceps brachii,8
+Triceps poulie corde derriere,Clavicular part of deltoid,7
+Triceps poulie corde derriere,External oblique,7
+Triceps poulie corde derriere,Flexor digitorum profundus,6
+Triceps poulie corde derriere,Flexor carpi radialis,5
+Triceps poulie corde derriere,Flexor digitorum superficialis,5
+Triceps poulie corde derriere,Subscapularis,4
+Triceps poulie corde derriere,Infraspinatus,4

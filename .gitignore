@@ -1,0 +1,17 @@
+# Fichiers 3D
+*.obj
+
+# Dossiers Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Environnements virtuels
+env/
+venv/
+
+# Systèmes
+.DS_Store
+Thumbs.db
