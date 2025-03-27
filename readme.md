@@ -45,7 +45,7 @@ L'objectif principal est de visualiser et **analyser les performances physiques*
 - **Suggestions de repas** équilibrés et variés pour la semaine
 
 ### 🔹 Suivi apport journalier API openai 
-<img src="assets/food_complet.png" alt="Squats" width="600"/>
+<img src="assets/food_complet.png" alt="Squats" width="900"/>
 
 ---
 
