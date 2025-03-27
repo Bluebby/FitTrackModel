@@ -1,0 +1,11 @@
+date,heure,repas (matin/midi/soir),aliments,poid aliments(gr),quantite,indice_yuka,bio/sain/transforme,niveau de faim,sasiete_apres_repas,remarques (digestion/envie de sucre),calories(kcal),Proteines(g),glucides(g),dont_sucres(g),lipides(g),dont_acides_gras_satures(g),fibres(g),sel(g),eau(ml)
+3/24/2025,11:00:00 PM,soir,steak,125,2,,,,,,,,,,,,,,
+3/24/2025,11:00:00 PM,soir,oeuf,,4,,,,,,,,,,,,,,
+3/24/2025,11:00:00 PM,soir,carotte,300,,,,,,,,,,,,,,,
+3/24/2025,11:00:00 PM,soir,pates,400,,,,,,,,,,,,,,,
+3/26/2025,4:00:00 PM,aprem,steak,125,2,,,,,,,,,,,,,,
+3/26/2025,4:00:00 PM,aprem,oeuf,,2,,,,,,,,,,,,,,
+3/26/2025,4:00:00 PM,aprem,petit poid carotte,350,,,,,,,,,,,,,,,
+3/26/2025,4:00:00 PM,aprem,pates carbo,350,,,,,,,,,,,,,,,
+3/27/2025,5:00:00 PM,aprem,fromage de tete,100,,,,,,,,,,,,,,,
+3/27/2025,5:00:00 PM,aprem,beurre,13,,,,,,,,,,,,,,,
