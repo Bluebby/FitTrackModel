@@ -24,15 +24,16 @@ L'objectif principal est de visualiser et **analyser les performances physiques*
 
 ## 🧍‍♂️ Visualisation 3D des muscles activés
 
-### 🔹 Triceps à la barre EZ
-![Triceps à la barre EZ](assets/triceps_barre_ez_3D.png)
+### 🔹 Triceps à la barre EZ  
+<img src="assets/triceps_barre_ez_3D.png" alt="Triceps à la barre EZ" width="400"/>
 
 ---
 
-### 🔹 Squats
-![Squats](assets/squats_3D.png)
+### 🔹 Squats  
+<img src="assets/squats_3D.png" alt="Squats" width="400"/>
 
 ---
+
 
 
 ### 🍽️ Suivi de l'alimentation
